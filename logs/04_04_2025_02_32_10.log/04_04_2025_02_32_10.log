@@ -1,0 +1,14 @@
+[ 2025-04-04 02:32:11,645 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-04 02:32:11,648 ] 97 werkzeug - INFO -  * Debugger PIN: 509-397-375
+[ 2025-04-04 02:32:19,060 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 02:32:19] "GET / HTTP/1.1" 200 -
+[ 2025-04-04 02:32:19,168 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 02:32:19] "[36mGET /static/images/ai-generated-a-diamond-with-a-transparent-background-png.webp HTTP/1.1[0m" 304 -
+[ 2025-04-04 02:32:25,227 ] 64 root - INFO - Dataframe Gathered
+[ 2025-04-04 02:32:25,558 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 02:32:25] "POST /predict HTTP/1.1" 200 -
+[ 2025-04-04 02:32:29,737 ] 64 root - INFO - Dataframe Gathered
+[ 2025-04-04 02:32:29,781 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 02:32:29] "POST /predict HTTP/1.1" 200 -
+[ 2025-04-04 02:32:35,693 ] 64 root - INFO - Dataframe Gathered
+[ 2025-04-04 02:32:35,737 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 02:32:35] "POST /predict HTTP/1.1" 200 -
+[ 2025-04-04 02:32:41,456 ] 64 root - INFO - Dataframe Gathered
+[ 2025-04-04 02:32:41,492 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 02:32:41] "POST /predict HTTP/1.1" 200 -
+[ 2025-04-04 02:32:45,360 ] 64 root - INFO - Dataframe Gathered
+[ 2025-04-04 02:32:45,399 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 02:32:45] "POST /predict HTTP/1.1" 200 -

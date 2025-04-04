@@ -1,0 +1,9 @@
+[ 2025-04-04 13:25:55,386 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-04-04 13:25:55,396 ] 97 werkzeug - INFO -  * Debugger PIN: 509-397-375
+[ 2025-04-04 13:25:58,144 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 13:25:58] "GET / HTTP/1.1" 200 -
+[ 2025-04-04 13:25:58,465 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 13:25:58] "[36mGET /static/images/ai-generated-a-diamond-with-a-transparent-background-png.webp HTTP/1.1[0m" 304 -
+[ 2025-04-04 13:25:58,505 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 13:25:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-04-04 13:26:13,181 ] 64 root - INFO - Dataframe Gathered
+[ 2025-04-04 13:26:13,869 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 13:26:13] "POST /predict HTTP/1.1" 200 -
+[ 2025-04-04 13:26:21,825 ] 64 root - INFO - Dataframe Gathered
+[ 2025-04-04 13:26:21,887 ] 97 werkzeug - INFO - 127.0.0.1 - - [04/Apr/2025 13:26:21] "POST /predict HTTP/1.1" 200 -
